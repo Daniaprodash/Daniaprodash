@@ -11,7 +11,7 @@ A simple yet powerful blog application built with Laravel. It includes:
 - Image upload and sharing
 - Clean UI and organized codebase
 
-🔗 [View the repository](https://github.com/your-username/your-blog-repo)
+🔗 [View the repository](https://github.com/Daniaprodash/laravel-blog)
 
 ## 📚 What I'm Focused On
 - Building real-world Laravel projects
